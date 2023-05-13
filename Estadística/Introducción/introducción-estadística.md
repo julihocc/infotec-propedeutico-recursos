@@ -1,0 +1,11 @@
+# Introducción al Curso: Introducción a la Estadística con Python para la Maestría en Ciencia de Datos de INFOTEC
+
+Bienvenidos al curso "Introducción a la Estadística con Python" en el marco del curso propedéutico de la Maestría en Ciencia de Datos en el prestigioso centro de investigación INFOTEC. Este curso está diseñado para proporcionarles una base sólida en conceptos fundamentales de probabilidad y estadística descriptiva, y aplicarlos de manera práctica utilizando el lenguaje de programación Python. A lo largo del curso, aprenderán a visualizar y analizar distribuciones de datos utilizando la biblioteca Matplotlib.
+
+Este curso es especialmente relevante para los estudiantes de la maestría, ya que les permitirá mejorar sus habilidades analíticas y ampliar sus conocimientos en estadística aplicada, esenciales en el campo de la ciencia de datos. Al completar este curso, estarán mejor preparados para enfrentar problemas de análisis de datos en sus proyectos de investigación y en su futuro profesional.
+
+El curso está dividido en tres sesiones de dos horas cada una, que cubren temas como probabilidad, estadística descriptiva y distribuciones de datos. En cada sesión, se combinarán conceptos teóricos con ejercicios prácticos y ejemplos en Python, lo que les permitirá aplicar lo aprendido de manera efectiva y fortalecer sus habilidades en programación y análisis de datos.
+
+A lo largo del curso, se utilizarán las bibliotecas NumPy, pandas y Matplotlib para facilitar la manipulación, análisis y visualización de datos. Si bien se espera que los estudiantes de la maestría tengan un conocimiento básico de Python, se explicarán los conceptos de programación a medida que se avance en el contenido para asegurar la comprensión de todos los participantes.
+
+Esperamos que disfruten este viaje en el mundo de la estadística y Python, y que adquieran habilidades valiosas que les permitan avanzar en sus proyectos de investigación y en su carrera profesional en la ciencia de datos. ¡Buena suerte y nos vemos en el aula virtual de INFOTEC!
