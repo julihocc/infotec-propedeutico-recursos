@@ -174,5 +174,5 @@ b) 12
 c) 16
 d) 24
 e) 28
-**Respuesta correcta: d**
+**Respuesta correcta: b**
 
