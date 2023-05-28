@@ -151,6 +151,96 @@ grouped_by_city = df.groupby("city")["age"].mean()
 print(grouped_by_city)
 ```
 
+## Ejemplo de análisis exploratorio de datos
+
+¡Por supuesto! Aquí tienes un tutorial paso a paso para realizar un Análisis Exploratorio de Datos (EDA) en el conjunto de datos del Titanic de Kaggle utilizando pandas.
+
+## Paso 1: Configuración del entorno
+
+Para empezar, necesitarás tener Python instalado en tu máquina. También necesitarás las bibliotecas pandas, numpy, matplotlib y seaborn. Si no las tienes instaladas, puedes hacerlo utilizando pip:
+
+```shell
+pip install pandas numpy matplotlib seaborn
+```
+
+## Paso 2: Descarga del conjunto de datos
+
+El conjunto de datos del Titanic está disponible en Kaggle. Para descargarlo, sigue estos pasos:
+
+1. Ve a la página del conjunto de datos del Titanic en Kaggle: https://www.kaggle.com/c/titanic/data
+2. Si no tienes una cuenta de Kaggle, tendrás que crear una. Es gratis y solo toma unos minutos.
+3. Una vez que hayas iniciado sesión, encontrarás la opción para descargar el conjunto de datos. Haz clic en "Download" (descargar) y guárdalo en un lugar en el que puedas encontrarlo fácilmente.
+
+## Paso 3: Importar las bibliotecas necesarias
+
+Antes de empezar, necesitamos importar las bibliotecas que vamos a utilizar. Abre tu editor de código favorito, crea un nuevo archivo Python y escribe el siguiente código:
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
+## Paso 4: Cargar el conjunto de datos
+
+Ahora, cargaremos el conjunto de datos del Titanic que descargaste en el Paso 2. Asegúrate de tener la ruta correcta del archivo.
+
+```python
+df = pd.read_csv('ruta/a/tu/archivo/train.csv')
+```
+
+## Paso 5: Iniciar el Análisis Exploratorio de Datos
+
+¡Ahora la diversión comienza! Vamos a explorar nuestro conjunto de datos.
+
+### Resumen de los datos
+
+Primero, vamos a obtener una descripción general de nuestros datos utilizando los métodos `info()` y `describe()`.
+
+```python
+df.info()
+df.describe()
+```
+
+### Verificar valores nulos
+
+Es importante saber si nuestro conjunto de datos tiene algún valor nulo. Para eso, podemos usar el método `isnull()` combinado con `sum()`.
+
+```python
+df.isnull().sum()
+```
+
+### Análisis de variables categóricas
+
+A continuación, vamos a examinar cómo se distribuyen nuestras variables categóricas. Usaremos seaborn para crear un gráfico de conteo.
+
+```python
+sns.countplot(x='Sex', data=df)
+```
+
+### Análisis de la tasa de supervivencia
+
+Después, vamos a explorar la tasa de supervivencia en función de diferentes categorías. Para esto, crearemos un gráfico de barras.
+
+```python
+sns.barplot(x='Sex', y='Survived', data=df)
+```
+
+### Correlación entre las variables
+
+Finalmente, vamos a examinar la relación entre nuestras diferentes variables. Para esto, crearemos un mapa de calor de correlación.
+
+```python
+sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
+```
+
+¡Y eso es todo! Has completado un análisis exploratorio básico del conjunto de datos del Titanic. Recuerda que este es solo el comienzo. Dependiendo de los resultados de estas exploraciones, puedes profundizar más en ciertas áreas o incluso hacer ingeniería de características para
+
+crear nuevas variables que podrían ser útiles para predecir la supervivencia.
+
+La ciencia de datos es un proceso iterativo y exploratorio. Te invito a que experimentes con estos datos, pruebes nuevos enfoques y veas qué puedes descubrir. ¡Feliz análisis de datos!
+
 ## Ejercicios prácticos de diccionarios y Dataframes
 
 1. Crear un diccionario que represente a una persona con nombre, edad, ciudad y país, y luego acceder e imprimir cada uno de los valores utilizando las claves del diccionario.
