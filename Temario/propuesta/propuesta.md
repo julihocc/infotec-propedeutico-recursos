@@ -53,20 +53,35 @@
 - **Distribuciones con SciPy** (30 min): Uso de `scipy.stats` para trabajar con diferentes distribuciones de probabilidad.
 - **Aplicaciones de las Distribuciones** (30 min): Cálculos de probabilidad, PDFs, CDFs, y percentiles con SciPy.
 
-### Sesión 5: Estimación de Parámetros y Ajuste de Modelos (1 hora)
-- **Métodos de Estimación** (30 min): Estimadores de máxima verosimilitud (MLE), mínimos cuadrados.
-- **Ajuste de Distribuciones** (30 min): Utilizar SciPy para ajustar distribuciones a datos. Ejemplos con datos reales.
+### Sesión 5: Revisión Rápida y Caso de Estudio (30 minutos)
+ - **Objetivo**: Repasar brevemente los conceptos fundamentales de regresión lineal y establecer un caso de estudio para aplicar durante el minicurso.
+- **Contenido**:
+	- Repaso rápido sobre los conceptos teóricos de la regresión lineal.  
+	- Introducción de un caso de estudio que será desarrollado durante el curso, por ejemplo, predicción de precios de vivienda o predicción de ventas.
 
-### Sesión 6: Pruebas de Hipótesis (1 hora)
-- **Conceptos Básicos de Pruebas de Hipótesis** (30 min): Hipótesis nula, hipótesis alternativa, nivel de significancia, p-valor.
-- **Pruebas de Hipótesis con SciPy** (30 min): Realizar pruebas Z, t-tests, y pruebas chi-cuadrado utilizando SciPy.
 
-### Sesión 7: Regresión y Correlación (1 hora)
-- **Correlación** (30 min): Pearson, Spearman. Cálculo de coeficientes de correlación con SciPy.
-- **Regresión Lineal** (30 min): Uso de SciPy para ajuste de regresión lineal. Interpretación de resultados.
+  ### Sesión 6: Implementación Avanzada de Regresiones Lineales (1 hora)
+- **Objetivo**: Aprender a implementar regresiones lineales en escenarios más complejos que involucren múltiples variables.
+- **Contenido**:
+  - Implementación de regresión lineal múltiple usando NumPy.
+  - Discusión sobre la colinealidad y cómo manejar las características altamente correlacionadas.
 
-### Sesión 8: Proyecto Práctico (1 hora)
-- **Desarrollo de un Proyecto** (1 hora): Implementar un proyecto que incluya análisis estadístico, estimación de parámetros, pruebas de hipótesis y regresión. Se podría analizar un conjunto de datos y modelar utilizando distribuciones de probabilidad.
+### Sesión 7: Evaluación y Validación de Modelos (1 hora)
+
+- **Objetivo:** Aprender a evaluar y validar la efectividad de los modelos de regresión.
+- **Contenido:**
+  - Cálculo de métricas de rendimiento como R-cuadrado, Error Cuadrático Medio (MSE), etc.
+  - Validación cruzada: teoría y práctica utilizando ejemplos simples.
+
+
+
+#### Sesión 8: Aplicaciones Prácticas y Escenarios Reales (1 hora 30 minutos)
+
+- **Objetivo:** Aplicar los conocimientos adquiridos a casos reales y resolver problemas prácticos.
+- Contenido:
+  - Trabajo en grupo sobre el caso de estudio introducido al comienzo.
+  - Análisis de los resultados, discusión en grupos y presentación de las conclusiones.
+  - Resolución de dudas y preguntas finales.
 
 ## Módulo 3: Álgebra lineal
 
