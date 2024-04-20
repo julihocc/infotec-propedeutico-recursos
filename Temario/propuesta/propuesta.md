@@ -2,39 +2,36 @@
 
 ## Módulo 1. Cómputo científico con Numpy
 
-### Sesión 1: Introducción al Cómputo Científico y Python (1 hora)
+### Sesión 1: Introducción al Cómputo Científico y Python (2 hora)
 
-- **Conceptos Básicos de Python** (20 min): Repaso rápido de Python. Variables, tipos de datos básicos, estructuras de control (if, for, while).
-- **Entorno de Desarrollo** (20 min): Instalación de Python y configuración del entorno. Uso de Jupyter Notebooks o Google Colab para ejemplos interactivos.
-- **Introducción al Cómputo Científico** (20 min): Conceptos básicos y aplicaciones. Importancia de NumPy en el ecosistema de Python para ciencia e ingeniería.
+- **Conceptos Básicos de Python** (40 min): Repaso rápido de Python. Variables, tipos de datos básicos, estructuras de control (if, for, while).
+- **Entorno de Desarrollo** (40 min): Instalación de Python y configuración del entorno. Uso de Jupyter Notebooks o Google Colab para ejemplos interactivos.
+- **Introducción al Cómputo Científico** (40 min): Conceptos básicos y aplicaciones. Importancia de NumPy en el ecosistema de Python para ciencia e ingeniería.
 
-### Sesión 2: Fundamentos de NumPy (1 hora)
+### Sesión 2: Análisis de álgotirmos y estrucutas de datos básicas (2 horas)
+
+* **Estructuras básicas** (1 hora): Listas, pilas, colas, arreglos, diccionarios, colas de prioridad
+* **Estructuras avanzadas** (1 hora): árboles y grafos
+
+### Sesión 3: Fundamentos de NumPy (1 hora)
+
 - **Creación y Manipulación de Arrays** (30 min): Creación de arrays, dimensiones, acceso a elementos, slicing y dicing.
 - **Operaciones con Arrays** (30 min): Operaciones elemento a elemento, agregaciones (max, min, sum), y operaciones de broadcast.
 
-### Sesión 3: Álgebra Lineal con NumPy (1 hora)
+### Sesión 4: Álgebra Matricial con NumPy (1 hora)
+
 - **Operaciones Básicas de Álgebra Lineal** (30 min): Vectores, matrices, operaciones matriciales básicas (suma, resta, multiplicación).
 - **Sistemas de Ecuaciones y Eigenvalores** (30 min): Uso de NumPy para resolver sistemas de ecuaciones lineales, cálculo de eigenvalores y eigenvectores.
 
-### Sesión 4: Análisis de Datos con NumPy (1 hora)
+### Sesión 5: Análisis de Datos con NumPy (1 hora)
+
 - **Estadísticas Descriptivas** (30 min): Funciones para cálculo de medias, medianas, desviaciones estándar, etc.
 - **Manipulación y Limpieza de Datos** (30 min): Técnicas para manejar datos faltantes, filtrado de datos, y transformaciones.
 
-### Sesión 5: Visualización de Datos (1 hora)
+### Sesión 6: Visualización de Datos (1 hora)
+
 - **Introducción a Matplotlib** (30 min): Creación de gráficos básicos: líneas, barras, histogramas.
 - **Integración de NumPy con Matplotlib** (30 min): Uso de arrays de NumPy para crear visualizaciones complejas.
-
-### Sesión 6: Aplicaciones Científicas de NumPy (1 hora)
-
-- **Simulaciones y Modelos** (30 min): Uso de NumPy para simulaciones estocásticas y modelado matemático.
-- **Procesamiento de Imágenes** (30 min): Manipulación básica de imágenes con NumPy: filtros, transformaciones.
-
-### Sesión 7: Optimización y Eficiencia (1 hora)
-- **Mejorando el Rendimiento** (30 min): Consejos para escribir código NumPy eficiente. Uso de operaciones in-place, evitar bucles cuando sea posible.
-- **Perfiles y Depuración** (30 min): Herramientas para medir y mejorar el rendimiento del código NumPy.
-
-### Sesión 8: Proyecto Práctico (1 hora)
-- **Desarrollo de un Proyecto** (1 hora): Aplicación de los conceptos aprendidos en un proyecto práctico, como análisis de un conjunto de datos o simulación de un problema científico.
 
 ## Módulo 2: Estadística Matemática
 
