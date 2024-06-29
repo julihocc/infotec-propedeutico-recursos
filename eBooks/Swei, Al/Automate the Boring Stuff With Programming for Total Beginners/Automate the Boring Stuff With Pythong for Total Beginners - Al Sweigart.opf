@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f018aab6-df51-4a3d-b879-c0b28bb782e0</dc:identifier>
+        <dc:title>Automate the Boring Stuff With Python, 2nd Edition: Practical Programming for Total Beginners</dc:title>
+        <dc:creator opf:file-as="Sweigart, Al" opf:role="aut">Al Sweigart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-12T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;**Learn how to code while you write programs that effortlessly perform useful feats of automation! &lt;/p&gt;
+&lt;p&gt;The second edition of this international fan favorite includes a brand-new chapter on input validation, Gmail and Google Sheets automations, tips for updating CSV files, and more.** &lt;/p&gt;
+&lt;p&gt;If you've ever spent hours renaming files or updating spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you? &lt;em&gt;Automate the Boring Stuff with Python, 2nd Edition&lt;/em&gt; teaches even the technically uninclined how to write programs that do in minutes what would take hours to do by hand—no prior coding experience required! &lt;/p&gt;
+&lt;p&gt;This new, fully revised edition of Al Sweigart’s bestselling Pythonic classic, &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt; , covers all the basics of Python 3 while exploring its rich library of modules for performing specific tasks, like scraping data off the Web, filling out forms, renaming files, organizing folders, sending email responses, and merging, splitting, or encrypting PDFs. There’s also a brand-new chapter on input validation, tutorials on automating Gmail and Google Sheets, tips on automatically updating CSV files, and other recent feats of automations that improve your efficiency. &lt;/p&gt;
+&lt;p&gt;Detailed, step-by-step instructions walk you through each program, allowing you to create useful tools as you build out your programming skills, and updated practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks. Boring tasks no longer have to take to get through—and neither does learning Python!&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"With lessons on how to use Python to program Excel spreadsheets, crawl websites, parse PDFs and Word documents, send emails, and other productivity-boosting task automation, it's a stellar resource for office workers, academics, and administrators."&lt;br&gt;&lt;strong&gt;—Mashable&lt;br&gt;&lt;/strong&gt;&lt;br&gt;"I think many educational resources jump levels way too quickly. One of the best I ever used was &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt; - that book stayed at the right level the whole way!"&lt;br&gt;&lt;strong&gt;—Oscar Baruffa, @OscarBaruffa&lt;br&gt;&lt;/strong&gt;&lt;br&gt;Praise for the first edition of &lt;em&gt;Automate the Boring Stuff with Python:&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;"The best part of programming is the triumph of seeing the machine do something useful. &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt; frames all of programming as these small triumphs; it makes the boring fun.”&lt;br&gt;— &lt;strong&gt;Hilary Mason, Founder of Fast Forward Labs and Data Scientist in Residence at Accel&lt;br&gt;&lt;/strong&gt;&lt;br&gt;“Do you need &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt;? Yes, if you want to enhance your workflow by using automation, this is an excellent place to start. Highly recommended.”&lt;br&gt;&lt;strong&gt;—Network World&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;“Valuable to have on your shelf...an extremely useful book.”&lt;br&gt;— &lt;strong&gt;Kids, Code, and Computer Science Magazine&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;" &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt; is perfect for anyone who has menial tasks they don't want to spend hours doing."&lt;br&gt;— &lt;strong&gt;GeekMom&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;"Whether you prefer working through a book, or learning by watching, or both together, &lt;em&gt;Automate the Boring Stuff&lt;/em&gt; will have you productive in Python in no time." &lt;br&gt;&lt;strong&gt;—Serdar Yegulalp, InfoWorld&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;"If you seriously want to know how much Python helps with automation, my favorite place is the &lt;em&gt;Automate Boring Stuff with Python&lt;/em&gt; book, a simply awesome book." &lt;br&gt;&lt;strong&gt;—Javin Paul, Hacker Noon&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;"This is certainly a much more engaging way to learn Python . . . it gets you all excited by the prospect of making cool little programs that will save you time."&lt;br&gt;&lt;strong&gt;—Andrew Lau, AndrewLauActuary.com&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;"I've found both the book and Udemy course of &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt; by Al Sweigart to be really helpful."&lt;br&gt;&lt;strong&gt;—Mark S, @Awful_Curious&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;"Best Python book you can buy today."&lt;br&gt;&lt;strong&gt;—Rodrigo Ribeiro, @mcapablanca&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Al Sweigart&lt;/strong&gt; is a professional software developer who teaches programming to kids and adults. Sweigart has written several bestselling programming books for beginners, including &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt; , &lt;em&gt;Invent Your Own Computer Games with Python&lt;/em&gt; , &lt;em&gt;Cracking Codes with Python&lt;/em&gt; , and &lt;em&gt;Coding with Minecraft&lt;/em&gt; (all from No Starch Press).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593279929</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1593279922</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2024-04-18T00:30:10+00:00"/>
+        <meta name="calibre:title_sort" content="Automate the Boring Stuff With Python, 2nd Edition: Practical Programming for Total Beginners"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Automate the Boring Stuff With Pythong for Total Beginners - Al Sweigart.jpg"/>
+    </guide>
+</package>
