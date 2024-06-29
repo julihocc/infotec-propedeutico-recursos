@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9708c7d1-4441-4a8f-b724-ccc7c500256d</dc:identifier>
+        <dc:title>50 Algorithms Every Programmer Should Know - Second Edition: An Unbeatable Arsenal of Algorithmic Solutions for Real-World Problems</dc:title>
+        <dc:creator opf:file-as="Ahmad, Imran" opf:role="aut">Imran Ahmad</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-29T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Delve into the realm of generative AI and large language models (LLMs) while exploring modern deep learning techniques, including LSTMs, GRUs, RNNs with new chapters included in this 50% new edition overhaul&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Purchase of the print or Kindle book includes a free eBook in PDF format.&lt;/p&gt;
+&lt;p&gt;Key Features&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Familiarize yourself with advanced deep learning architectures&lt;/li&gt;
+&lt;li&gt;Explore newer topics, such as handling hidden bias in data and algorithm explainability&lt;/li&gt;
+&lt;li&gt;Get to grips with different programming algorithms and choose the right data structures for their optimal implementation&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Book Description&lt;/p&gt;
+&lt;p&gt;The ability to use algorithms to solve real-world problems is a must-have skill for any developer or programmer. This book will help you not only to develop the skills to select and use an algorithm to tackle problems in the real world but also to understand how it works.&lt;/p&gt;
+&lt;p&gt;You'll start with an introduction to algorithms and discover various algorithm design techniques, before exploring how to implement different types of algorithms, with the help of practical examples. As you advance, you'll learn about linear programming, page ranking, and graphs, and will then work with machine learning algorithms to understand the math and logic behind them.&lt;/p&gt;
+&lt;p&gt;Case studies will show you how to apply these algorithms optimally before you focus on deep learning algorithms and learn about different types of deep learning models along with their practical use.&lt;/p&gt;
+&lt;p&gt;You will also learn about modern sequential models and their variants, algorithms, methodologies, and architectures that are used to implement Large Language Models (LLMs) such as ChatGPT.&lt;/p&gt;
+&lt;p&gt;Finally, you'll become well versed in techniques that enable parallel processing, giving you the ability to use these algorithms for compute-intensive tasks.&lt;/p&gt;
+&lt;p&gt;By the end of this programming book, you'll have become adept at solving real-world computational problems by using a wide range of algorithms.&lt;/p&gt;
+&lt;p&gt;What you will learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design algorithms for solving complex problems&lt;/li&gt;
+&lt;li&gt;Become familiar with neural networks and deep learning techniques&lt;/li&gt;
+&lt;li&gt;Explore existing data structures and algorithms found in Python libraries&lt;/li&gt;
+&lt;li&gt;Implement graph algorithms for fraud detection using network analysis&lt;/li&gt;
+&lt;li&gt;Delve into state-of-the-art algorithms for proficient Natural Language Processing illustrated with real-world examples&lt;/li&gt;
+&lt;li&gt;Create a recommendation engine that suggests relevant movies to subscribers&lt;/li&gt;
+&lt;li&gt;Grasp the concepts of sequential machine learning models and their foundational role in the development of cutting-edge LLMs&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Who this book is for&lt;/p&gt;
+&lt;p&gt;This computer science book is for programmers or developers who want to understand the use of algorithms for problem-solving and writing efficient code.&lt;/p&gt;
+&lt;p&gt;Whether you are a beginner looking to learn the most used algorithms concisely or an experienced programmer looking to explore cutting-edge algorithms in data science, machine learning, and cryptography, you'll find this book useful.&lt;/p&gt;
+&lt;p&gt;Python programming experience is a must, knowledge of data science will be helpful but not necessary.&lt;/p&gt;
+&lt;p&gt;Table of Contents&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Core Algorithms&lt;/li&gt;
+&lt;li&gt;Data Structures&lt;/li&gt;
+&lt;li&gt;Sorting and Searching Algorithms&lt;/li&gt;
+&lt;li&gt;Designing Algorithms&lt;/li&gt;
+&lt;li&gt;Graph Algorithms&lt;/li&gt;
+&lt;li&gt;Unsupervised Machine Learning Algorithms&lt;/li&gt;
+&lt;li&gt;Supervised Learning Algorithms&lt;/li&gt;
+&lt;li&gt;Neural Network Algorithms&lt;/li&gt;
+&lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;li&gt;Sequential Models&lt;/li&gt;
+&lt;li&gt;Advanced Machine Learning Models&lt;/li&gt;
+&lt;li&gt;Recommendation Engines&lt;/li&gt;
+&lt;li&gt;Algorithmic Strategies for Data Handling&lt;/li&gt;
+&lt;li&gt;Large-Scale Algorithms&lt;/li&gt;
+&lt;li&gt;Evaluating Algorithmic Solutions&lt;/li&gt;
+&lt;li&gt;Practical Considerations&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“Algorithms form the heart and soul of programming and are the cornerstone of application development. Imran Ahmad's tour through the 50 algorithms every programmer should know is both thorough and well-directed. From beginning to end, Imran's straightforward, no-nonsense writing style makes even the most advanced topics understandable. He covers both old-school and cutting-edge algorithms, dealing with everything from the traditional supervised classics to the evolving world of algorithms in unsupervised learning, and then to some of the hot elements of generative AI and Large Language Models. I thoroughly enjoyed the read and have learned a lot, thanks to Imran.”&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Patrick Haggerty, Director of Google Cloud Learning at ROI Training&lt;/p&gt;
+&lt;p&gt;“The examples in this book illustrate how algorithms are applied in the enterprise world. What’s more, the exposition is excellent, so you can understand the algorithm rather than treat it as just a recipe. I found it particular helpful that, in many cases, this book presents multiple algorithms that achieve the same goal. This is useful in enterprise code as one algorithm will not always be most suitable for a given problem; you must balance performance, cost in terms of resource usage, maintainability, and explain-ability. The examples are in Python, which is an accessible and widely used language, especially in machine learning. Read this book from cover to cover and then keep it handy as a reference.”&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Chris Mawata Ph.D, AI Trainer&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Imran Ahmad is a certified Google Instructor who has been teaching for Google and Learning Tree for the last many years. Imran completed his PhD in 2009 in which he proposed an AI used to develop intelligent clouds for Sudbury Neutrino Observatory. Since 2005 Imran is working in a high-profile machine learning project at the Advanced Analytics Lab of the Canadian Federal Government. The project is to develop machine learning algorithms that can automate the process of immigration. Currently Imran is also doing research on semi-supervised learning and edge computing&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781803247762</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1803247762</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-05-06T16:29:04+00:00"/>
+        <meta name="calibre:title_sort" content="50 Algorithms Every Programmer Should Know - Second Edition: An Unbeatable Arsenal of Algorithmic Solutions for Real-World Problems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="50 Algorithms Every Programmer Sho Real-World Problems - Imran Ahmad.jpg"/>
+    </guide>
+</package>
